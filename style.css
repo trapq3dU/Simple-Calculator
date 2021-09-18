@@ -67,3 +67,9 @@
     color: #000;
   }
   
+  button.fun {
+    border-radius: 20px;
+    width: 150px;
+    background-color: rgb(4, 85, 58);
+    color: #000;
+  }

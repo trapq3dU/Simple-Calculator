@@ -11,9 +11,17 @@ function calculate(btnValue) {
             display.value = eval(display.value);
         }
     } 
-    else if (input === 'C') {
+    else if (input === 'clear') {
 
         display.value = '';
+    }
+    else if(input === 'del') {
+        let tempInput = "";
+        let len = display.value.length;
+        for(let i = 0; i < len-1; i++) {
+            tempInput += display.value.charAt(i);
+        }
+        display.value = tempInput;
     }
     else {
         display.value += input;
