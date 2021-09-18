@@ -6,6 +6,6 @@
 * JS
 # *Functionalities*
 * You can correct your mistyped input before final calculation
-* You can calculate decimal numbers
+* You can calculate not only integers but float numbers too.
 
 [Link to my website](https://trapq3du-photography-site.netlify.app/ "Simple Calculator")
