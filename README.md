@@ -1,5 +1,5 @@
 # Simple-Calculator
-##This is a simple calculator which performs basic operations.
+## This is a simple calculator which performs basic operations.
 # *Skills used:*
 * HTML
 * CSS
