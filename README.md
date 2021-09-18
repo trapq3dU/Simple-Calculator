@@ -1,6 +1,6 @@
 # Simple-Calculator
 This is a simple calculator which performs basic operations.
-*## Skills used:*
+## *Skills used:*
 * HTML
 * CSS
 * JS
