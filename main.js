@@ -8,7 +8,7 @@ function calculate(btnValue) {
 
         if (display.value !== '') {
             
-            display.value = eval(display.value);
+            display.value = eval(display.value).toFixed(4);
         }
     } 
     else if (input === 'clear') {
@@ -16,11 +16,8 @@ function calculate(btnValue) {
         display.value = '';
     }
     else if(input === 'del') {
-        let tempInput = "";
-        let len = display.value.length;
-        for(let i = 0; i < len-1; i++) {
-            tempInput += display.value.charAt(i);
-        }
+        let len = display.value.length;        
+        let tempInput = display.value.substr(0, len-1);
         display.value = tempInput;
     }
     else {

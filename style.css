@@ -66,10 +66,10 @@
     background-color: rgb(9, 150, 103);
     color: #000;
   }
-  
-  button.fun {
-    border-radius: 20px;
-    width: 120px;
-    background-color: rgb(4, 85, 58);
-    color: rgb(0, 0, 0);
+
+  .fun {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30%;
+    background-color: rgb(5, 94, 64);
+    color: #000;
   }
