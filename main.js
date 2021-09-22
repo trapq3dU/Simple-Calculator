@@ -8,7 +8,7 @@ function calculate(btnValue) {
 
         if (display.value !== '') {
             
-            display.value = eval(display.value).toFixed(4);
+            display.value = eval(display.value);
         }
     } 
     else if (input === 'clear') {
