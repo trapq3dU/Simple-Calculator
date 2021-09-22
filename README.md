@@ -7,6 +7,7 @@
 # *Functionalities*
 * You can correct your mistyped input before final calculation
 * You can calculate not only integers but float numbers too.
+* You can solve an expression.
 
 # *Hosted link:*
 
