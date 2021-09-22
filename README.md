@@ -8,4 +8,4 @@
 * You can correct your mistyped input before final calculation
 * You can calculate not only integers but float numbers too.
 
-[Link to my website](https://trapq3du-simple-calculator.netlify.app/ "Simple Calculator")
+[See this project in action](https://trapq3du-simple-calculator.netlify.app/ "Simple Calculator")
